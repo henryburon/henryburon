@@ -1,6 +1,6 @@
 # Henry Buron
 
-Robotics Engineer and Programmer at Northwestern University
+Robotics Engineer and Programmer
 
  [![Website](https://img.shields.io/badge/Website-3776AB?style=for-the-badge)](https://henryburon.github.io)
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henryburon/)
